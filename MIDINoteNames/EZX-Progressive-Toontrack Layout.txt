@@ -1,0 +1,62 @@
+# MIDI note/CC name map
+#
+# Toontrack EZDrummer 3 - Progressive EZX
+#
+# Work-in-progress, does not include full mapping with all aliases yet
+#
+# Format:
+# MIDI_note_number new name
+# CC_number new name
+#
+# examples:
+# 60 Middle C
+# CC7 Loudness
+
+118 Ride - mute (118)
+107 Crash 6 - mute (107)
+106 Crash 4 - mute (106)
+95 Crash 3 - mute (95)
+94 Crash 1 - mute (94)
+84 Ride - bow shank (84)
+83 China 1 - mute (83)
+76 Spock - mute (76)
+64 HAT - open 0 (64)
+63 HAT - tight tip (63)
+62 HAT - tight edge (62)
+60 HAT - open 4 (60)
+59 Ride - edge (59)
+58 Crash 5 - mute (58)
+57 Crash 5 (57)
+56 Splash - mute (56)
+55 Splash (55)
+54 China 2 - mute (54)
+53 Ride - bell (53)
+52 China 2 (52)
+51 Ride - bow tip (51)
+50 Crash 2 - mute (50)
+49 Crash 2 (49)
+48 Tom-Rack 1 (48)
+47 Tom-Rack 2 (47)
+45 Tom-Rack 3 (45)
+43 Tom-Floor 1 (43)
+42 HAT - closed tip (42)
+41 Tom-Floor 2 (41)
+40 Snare - rimshot (40)
+38 Snare (38)
+37 Snare - stick (37)
+36 Kick (36)
+34 Kick - open (34)
+33 Snare - edge (33)
+32 Crash 6 (32)
+31 Crash 4 (31)
+30 Crash 3 (30)
+29 Spock (29)
+28 Crash 1 (28)
+27 China 1 (27)
+26 HAT - open 3 (26)
+25 HAT - open 2 (25)
+24 HAT - open 1 (24)
+23 HAT - pedal open (23)
+22 HAT - closed edge (22)
+21 HAT - pedal close (21)
+17 HAT - open 5 (16)

@@ -1,0 +1,24 @@
+# MIDI note/CC name map
+76 E1-12
+75 E1-11
+71 B1-12
+70 B2-11
+67 G3-12
+62 D4-12
+23 Slide Slow
+22 Slide Fast
+21 Bend Down Slow
+20 Bend Down Fast
+19 Bend Up Slow
+18 Bend Up Fast
+17 Up Mute
+16 Down Mute
+15 Alt Mute
+14 Up Pick
+13 Down Pick
+12 Alt Pick
+11 Scrapes
+10 Tapping
+9 Harmonics
+8 Perc. Chug
+7 Tremolo Mode
